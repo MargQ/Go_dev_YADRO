@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	// Получение значениЯ числа n из командной строки
+	// Получение значения числа n из командной строки
 	args := os.Args
 	n := int64(len(args) - 1)
 	fmt.Println("Количество переданных аргументов командной строки:", len(args)-1)
@@ -26,7 +26,6 @@ func main() {
 	// Устанавливаем уровень логирования INFO
 	logrus.SetLevel(logrus.InfoLevel)
 	result := fact.Calculate(n, Logging)
-	//fmt.Printf("Factorial of %d is: %d\n", n, result)
 
 	logrus.Info("Factorial of ", n, " is: ", result)
 
