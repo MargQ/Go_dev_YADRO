@@ -13,8 +13,8 @@
 
 ## Вывод:
 <details><summary>db</summary>
-  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/testing/src/db.png">
+  <img src = "src/db.png">
 </details>
 <details><summary>wifi</summary>
-  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/testing/src/wifi.png">
+  <img src = "src/wifi.png">
 </details>

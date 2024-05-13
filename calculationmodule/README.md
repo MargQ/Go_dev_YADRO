@@ -30,8 +30,8 @@ Calculations complete!
 
 ## Результат выполнения программы:
 
-<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main.png">
+<img src = "src/main.png">
 
-<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main2.png">
+<img src = "src/main2.png">
 
-<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/module.png">
+<img src = "src/module.png">
