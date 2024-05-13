@@ -3,7 +3,7 @@
 #### Результаты выполенения программ
 <details><summary>Простой калькулятор на языке Go (папка calculator)</summary>
   
-  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculator/src/calc.png">
+  <img src = "src/calc.png">
 </details>
 
 <details><summary>Поиск наибольшего k-го элемента в массиве (папка slays_arrays)</summary>
