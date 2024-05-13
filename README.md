@@ -16,9 +16,9 @@
 
 
 <details><summary>Тестирование и линтинг в Go (папка testing)</summary>
-  <img src = "">
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/testing/src/db.png">
   
-  <img src = "">
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/testing/src/wifi.png">
 </details>
 
 
