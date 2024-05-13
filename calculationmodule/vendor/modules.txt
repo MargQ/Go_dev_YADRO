@@ -1,0 +1,13 @@
+# github.com/sirupsen/logrus v1.9.3
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# github.com/yuin/goldmark v1.4.13
+## explicit; go 1.18
+# golang.org/x/mod v0.17.0
+## explicit; go 1.18
+# golang.org/x/sys v0.20.0
+## explicit; go 1.18
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/tools v0.21.0
+## explicit; go 1.19
