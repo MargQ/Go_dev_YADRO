@@ -3,15 +3,19 @@
 #### Результаты выполенения программ
 <details><summary>Простой калькулятор на языке Go (папка calculator)</summary>
   
-  <img src = "src/calc.png">
+  <img src = "calculator/src/calc.png">
 </details>
 
 <details><summary>Поиск наибольшего k-го элемента в массиве (папка slays_arrays)</summary>
-  <img src = "">
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/slays_arrays/src/main.png">
 </details>
 
 <details><summary>Использование сторонних модулей (папка calculationmodule)</summary>
-  <img src = "">
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main.png">
+
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main2.png">
+
+  <img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/module.png">
 </details>
 
 

@@ -29,4 +29,9 @@ Calculations complete!
 - вывести результат выполнения программы с использованием пакета 'github.com/sirupsen/logrus'. При выводе значений использовать стандартный поток вывода, уровень логирования задать, как 'INFO'.
 
 ## Результат выполнения программы:
-<img src = "">
+
+<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main.png">
+
+<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/main2.png">
+
+<img src = "https://github.com/MargQ/Go_dev_YADRO/tree/main/calculationmodule/src/module.png">
