@@ -37,9 +37,9 @@
 
 Результат запуска проекта при помощи docker-compose (фронтенд):
 
-<img src = "docker/src/comp_b.png">
+<img src = "docker/src/comp_f.png">
 
 Результат запуска проекта при помощи docker-compose (бэкенд):
 
-<img src = "docker/src/comp_c.png">
+<img src = "docker/src/comp_b.png">
 </details>
