@@ -166,16 +166,17 @@ docker-compose up --build
 ## Результат выполнения программы:
 
 Контейнер с фронтендом:
-  <img src = "docker/src/f.png">
+
+  <img src = "src/f.png">
 
 Контейнер с бэкендом:
   
-  <img src = "docker/src/b.png">
+  <img src = "src/b.png">
 
 Результат запуска проекта при помощи docker-compose (фронтенд):
 
-<img src = "docker/src/comp_b.png">
+<img src = "src/comp_b.png">
 
 Результат запуска проекта при помощи docker-compose (бэкенд):
 
-<img src = "docker/src/comp_c.png">
+<img src = "src/comp_c.png">

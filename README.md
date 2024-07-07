@@ -25,22 +25,21 @@
   <img src = "testing/src/wifi.png">
 </details>
 
-<details><summary>Знакомство с docker и docker compose (папка docker)</summary>
+<details><summary>Знакомство с docker и docker compose (папка docker)<summary>
 
-Контейнер с фронтендом
+Контейнер с фронтендом:
+
   <img src = "docker/src/f.png">
 
-Контейнер с бэкендом
+Контейнер с бэкендом:
   
   <img src = "docker/src/b.png">
 
-Результат запуска проекта при помощи docker-compose (фронтенд)
+Результат запуска проекта при помощи docker-compose (фронтенд):
 
 <img src = "docker/src/comp_b.png">
 
-Результат запуска проекта при помощи docker-compose (бэкенд)
+Результат запуска проекта при помощи docker-compose (бэкенд):
 
 <img src = "docker/src/comp_c.png">
 </details>
-
-
