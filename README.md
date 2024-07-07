@@ -25,7 +25,7 @@
   <img src = "testing/src/wifi.png">
 </details>
 
-<details><summary>Знакомство с docker и docker compose (папка docker)<summary>
+<details><summary>Знакомство с docker и docker compose (папка docker)</summary>
 
 Контейнер с фронтендом:
 
