@@ -26,7 +26,7 @@
 </details>
 
 <details><summary>Многопоточное программирование (папка goroutines)</summary>
- <img src = "src/result.png">
+ <img src = "goroutines/src/result.png">
 </details>
 
 <details><summary>Знакомство с docker и docker compose (папка docker)</summary>
