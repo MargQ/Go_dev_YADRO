@@ -25,6 +25,10 @@
   <img src = "testing/src/wifi.png">
 </details>
 
+<details><summary>Многопоточное программирование (папка goroutines)</summary>
+ <img src = "src/result.png">
+</details>
+
 <details><summary>Знакомство с docker и docker compose (папка docker)</summary>
 
 Контейнер с фронтендом:
